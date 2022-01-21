@@ -1,6 +1,0 @@
-In sintesi: il sistema riguarda la gestione di un ristorante.
-Un Cliente può effettuare un ordine, il quale viene inviato all'area cucina e all'area cassa tramite socket.
-La cucina dovrebbe stampare sulla sua console i dettagli ordine ricevuto.
-La cassa dovrebbe tener traccia degli ordini da pagare e stampare su un file di testo 'Pagati.txt' i dettagli degli ordini pagati.
-Il cliente può effettuare una ordinazione andando a scrivere sulla console i numeri identificativi relativi alle pietanze (così come riportati sul menù).
-Sul menù i dettagli di ciascuna pietanza sono riportati nel formato: id, Nome_pietanza, lista_ingredienti, prezzo

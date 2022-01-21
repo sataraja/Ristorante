@@ -1,0 +1,35 @@
+1,Americana:	Pomodoro, mozzarella, würstel, patate fritte,7
+2,Bianca:	Olio d'oliva, formaggio,8
+3,Biancaneve:	Mozzarella,5
+4,Bismarck:	Pomodoro, mozzarella, prosciutto cotto, uovo fritto,8
+5,Boscaiola:	Mozzarella, champignon, salsiccia a fette,9
+6,Calabrese:	'Nduja, cipolle rosse di Tropea ,10
+7,Caprese:	Pomodori cuore di bue, mozzarella di bufala campana, basilico, olio,10
+8,Capricciosa:	Pomodoro, mozzarella, funghi, carciofi, prosciutto, olive nere,13
+9,Carbonara:	Mozzarella, uovo, guanciale, pecorino, pepe,13
+10,Carrettiera:	Mozzarella, friarielli, salsiccia, scaglie di grana,14
+11,Diavola:	Pomodoro, mozzarella, salame piccante, peperoncino, olive nere,15
+12,Fiori di zucca:	Mozzarella, fiori di zucca, acciughe salate, olio,13
+13,Focaccia:	Rosmarino, olio, sale,15
+14,Frutti di mare:	Pomodoro, mozzarella, frutti di mare (gamberetti, cozze, calamari), aglio, prezzemolo,12
+15,Funghi:	Pomodoro, mozzarella, champignon, prezzemolo, olio,19
+16,Mare e monti:	Pomodoro, mozzarella, funghi, frutti di mare, aglio, prezzemolo,10
+17,Margherita:	Pomodoro, fiordilatte, basilico, olio,7
+18,Marinara:	Pomodoro, aglio, origano, olio,6
+19,Messicana:	Pomodoro, mozzarella, cipolla, pancetta, fagioli neri,7
+20,Mimosa:	Mozzarella, panna, prosciutto cotto, mais,9
+21,Napoletana:	Pomodoro, acciughe salate, origano, capperi, olio,10
+22,'Nduja:	'Nduja,6
+23,Ortolana:	Pomodoro, mozzarella, peperoni, melanzane, zucchine, verdure grigliate varie,12
+24,Pisana:	Pomodoro mozzarella capperi acciughe parmigiano,15
+25,Primavera:	Pomodoro di Pachino, mozzarella, rucola, prosciutto crudo, scaglie di grana,13
+26,Prosciutto e formaggio:	Prosciutto cotto, formaggio,13
+27,Prosciutto e funghi:	Pomodoro, mozzarella, champignon, prosciutto cotto,5
+28,Pugliese:	Pomodoro, mozzarella, cipolla, olive nere,8
+29,Puttanesca:	Pomodoro, olive nere, capperi, alici, aglio, basilico,6
+30,Quattro formaggi:	Mozzarella, formaggi vari, basilico, gorgonzola,9
+31,Quattro stagioni:	Vedi descrizione della Capricciosa,13
+32,Tirolese:	Pomodoro, mozzarella, gorgonzola, speck,13
+33,Ungherese:	Pomodoro, mozzarella, salame ungherese,15
+34,Valdostana:	Pomodoro, mozzarella, prosciutto cotto, fontina,12
+35,Vecchia Modena:	Mozzarella, aceto balsamico modenese, pancetta, rucola,9

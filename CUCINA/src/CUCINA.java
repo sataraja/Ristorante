@@ -1,4 +1,3 @@
-package progetto_ingegneriasw;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -25,7 +24,8 @@ public class CUCINA {
 		
 		try {
 			System.out.println("Aspetto un messaggio dal client");
-			String letto = in.readLine();
+			String letto = in.readUTF();
+			in.close();
 			 System.out.println("Messaggio arrivato: "+ letto);
 			StringTokenizer st = new StringTokenizer(letto, ",");
 //Stampiamo dettagli ordine ricevuto

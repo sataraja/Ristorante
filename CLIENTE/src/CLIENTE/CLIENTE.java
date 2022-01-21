@@ -1,4 +1,4 @@
-package progetto_ingegneriasw;
+package CLIENTE;
 
 import java.io.DataInputStream;
 import java.net.InetAddress;
@@ -90,7 +90,6 @@ public class CLIENTE {
 		  logout=true;
 		  InvioOrdine();
 		  clear();
-		  ID_CLIENTE++;
 		  break;
 		  
 		  
@@ -126,8 +125,12 @@ public class CLIENTE {
 		
 		try {
 			//viene inviato messaggio tramite socket a cucina e cassa, nel formato: id_cliente,prezzo, lista ingredienti
-			out1.writeBytes(""+ ID_CLIENTE +","+ ordine.toString());   //invio a cucina
-			out2.writeBytes(""+ ID_CLIENTE +","+ ordine.toString());    //invio a cassa
+			out1.writeUTF(""+ ID_CLIENTE +","+ ordine.toString());   //invio a cucina
+			out1.flush();
+			out1.close();
+			out2.writeUTF(""+ ID_CLIENTE +","+ ordine.toString());    //invio a cassa
+			out2.flush();
+			out2.close();
 			System.out.println("Dettagli ordine inviati a cassa e cucina: "+ "   "+ ID_CLIENTE +","+ ordine.toString());
 		} catch (IOException e) {
 		

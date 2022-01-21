@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/giuse/OneDrive/Desktop/ECLIPSE/progetto_ingegneriasw/prog-4ed.jar"/>
-	<classpathentry kind="lib" path="C:/Users/giuse/OneDrive/Desktop/ECLIPSE/progetto_ingegneriasw/prog-doc-4ed.zip"/>
+	<classpathentry kind="lib" path="C:/Users/giuse/OneDrive/Desktop/ECLIPSE/CASSA/prog-4ed.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giuse/OneDrive/Desktop/ECLIPSE/CASSA/prog-doc-4ed.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

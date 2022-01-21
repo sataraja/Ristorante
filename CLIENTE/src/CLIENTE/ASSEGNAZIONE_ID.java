@@ -1,4 +1,4 @@
-package progetto_ingegneriasw;
+package CLIENTE;
 
 public class ASSEGNAZIONE_ID {
 
